@@ -1,10 +1,6 @@
 
 package regexmatch;
 
-/**
- *
- * @author jemalik
- */
 public class Regexmatch {
 
     /**
